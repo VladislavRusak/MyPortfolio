@@ -8,3 +8,12 @@
     width: 70%;
     height: auto;
 }
+
+nav {
+    color: black;
+    font-size: bolder;
+}
+
+.content {
+    margin-top: 100px;
+}
