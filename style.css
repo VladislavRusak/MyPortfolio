@@ -3,3 +3,8 @@
     color: black; 
     margin-top: 40px;
 }
+
+.card {
+    width: 70%;
+    height: auto;
+}
