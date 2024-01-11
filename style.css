@@ -1,7 +1,6 @@
 .first_project {
     text-align: center;
     color: black; 
-    margin-top: 40px;
 }
 
 .card {
@@ -10,13 +9,23 @@
     justify-content: center;
 }
 
-nav {
-    color: black;
-    font-size: bolder;
+.navbar {
+    position: relative;
+    display: block;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
 }
 
 .content {
-    margin-top: 100px;
+    margin-top: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
 }
 
 nav a {
